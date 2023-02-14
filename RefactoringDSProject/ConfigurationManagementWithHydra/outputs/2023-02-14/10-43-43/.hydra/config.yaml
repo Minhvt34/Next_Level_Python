@@ -1,0 +1,4 @@
+params:
+  epoch_count: 20
+  lr: 5.0e-05
+  batch_size: 128
